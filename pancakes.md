@@ -1,10 +1,16 @@
-#Pancakes
+# Pancakes
 - Buy pancakes from the store.
 - Heat them in a microwave.
 - Done.
 
-##Ingredients
+## Ingredients
 - Eggs
 - Flour
 - Water
 - Milk
+- Butter
+- Sugar
+- Salt
+
+## Preparing the batter
+
