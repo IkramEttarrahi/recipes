@@ -9,8 +9,9 @@
 - Water
 - Milk
 - Butter
-- Sugar
 - Salt
 
 ## Preparing the batter
+with vegan cheese!!!!
 
+salty for your salty self
